@@ -13,3 +13,7 @@ export const API_OPTIONS = {
 };
 
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/original/"
+
+export const BG_URL = "https://assets.nflxext.com/ffe/siteui/vlv3/4690cab8-243a-4552-baef-1fb415632f74/web/IN-en-20241118-TRIFECTA-perspective_0b813abc-8365-4a43-a9d8-14c06e84c9f3_large.jpg";
+
+export const SUPPORTED_LANGUAGE = [{identifier :"en",name:"English"},{identifier :"hi",name:"Hindi"},{identifier :"es",name:"Spanish"}]
